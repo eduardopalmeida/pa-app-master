@@ -1,6 +1,5 @@
 package pa.app;
 
-import java.util.logging.Logger;
 
 /**
  * Maven JUnit 5
