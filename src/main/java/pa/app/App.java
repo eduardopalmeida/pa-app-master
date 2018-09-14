@@ -26,15 +26,6 @@ public class App
 		return val1 * val2;
 	}
 	
-	
-	
-	
-	private static final Logger logger = Logger.getLogger(App.class.getName());
-    public static void main( String[] args )
-    {
-        logger.info("Maven JUnit 5 - Hello World!" );
-    }
-	
 	// String concatenation method example
 	String concat(String s1, String s2) {
 		return s1+s2;
