@@ -14,7 +14,7 @@ public class App
 		return val1 + val2;
 	}
 	
-	public double subtrair(double val1, double val2) {
+	public int subtrair(int val1, int val2) {
 		return val1 - val2;
 	}
 	
